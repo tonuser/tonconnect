@@ -1,5 +1,5 @@
 {
-    "url": "https://ton.vote",
+    "url": "http://127.0.0.1:8080",
     "name": "TON Vote",
     "iconUrl": "https://ton.vote/logo.png"
 }
