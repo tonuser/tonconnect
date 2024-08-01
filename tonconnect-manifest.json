@@ -1,5 +1,5 @@
 {
-    appName: "tonwallet",
-    name: "TON Wallet",
-    imageUrl: "https://wallet.ton.org/assets/ui/qr-logo.png"
+    "url": "https://ton.vote",
+    "name": "TON Vote",
+    "iconUrl": "https://ton.vote/logo.png"
 }
